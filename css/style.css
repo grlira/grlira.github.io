@@ -1,0 +1,27 @@
+.panel h1, .panel  h2, .panel  h3{
+	color: #0B108C;
+}
+
+a, a:visited {
+	color: #0B108C;
+	text-decoration: none;
+}
+
+a:hover {
+	color: #0C0F66;
+	text-decoration: none;
+}
+
+#mugshot {
+	display: inline-block;
+	border-radius: 15%;
+	border: 3px solid #0B108C;
+	background-color: white;
+	overflow: hidden;
+	width: 198px;
+	height: 210px;
+}
+	
+#experience .fa-check {
+	color: #0B108C;
+};
